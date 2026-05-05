@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src\\main\\java"
+    ],
+    "java.project.referencedLibraries": [
+        "libs\\pcap4j-core-1.8.2.jar",
+        "libs\\pcap4j-packetfactory-static-1.8.2.jar",
+        "libs\\slf4j-api-2.0.9.jar",
+        "libs\\slf4j-simple-2.0.9.jar"
+    ]
+}
